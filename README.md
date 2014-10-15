@@ -22,3 +22,7 @@
 7. git add README.md
 8. git commit -m "add MyClass with tests"
 9. git push
+10. git add src/MyClassTestWithDataProvider.php src/MyClassTestWithSetUp.php 
+11. git add README.md
+12. git commit -m "add extended test classes"
+13. git push
