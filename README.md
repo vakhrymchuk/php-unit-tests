@@ -26,3 +26,8 @@
 11. git add README.md
 12. git commit -m "add extended test classes"
 13. git push
+14. git branch pageable
+15. git checkout pageable
+16. git add src/Pageable* README.md
+17. git commit -m "add Pageable class with test"
+18. git push origin pageable
