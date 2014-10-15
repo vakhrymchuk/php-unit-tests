@@ -18,3 +18,7 @@
 3. git commit -m "first commit"
 4. git remote add origin git@github.com:vakhrymchuk/php-unit-tests.git
 5. git push -u origin master
+6. git add src
+7. git add README.md
+8. git commit -m "add MyClass with tests"
+9. git push
