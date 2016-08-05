@@ -1,8 +1,8 @@
 # Установка phpunit
-> $ sudo apt-get install phpunit
+> sudo apt-get install phpunit
 
 # Запуск тестов из командной строки
-> $ phpunit MyClassTest.php
+> phpunit MyClassTest.php
 
 ## Параметры запуска
 >     --colors - цветной вывод
@@ -10,7 +10,7 @@
 
 # [Статья по теме](http://habrahabr.ru/post/56289/)
 
-# [Архив библиотеки для тестирования phpunit.phar](https://phar.phpunit.de/phpunit.phar)
+# Библиотека для тестирования [phpunit.phar](https://phar.phpunit.de/phpunit.phar)
 
 # Git-лог на создание репозитория
 1. git init
